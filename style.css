@@ -23,6 +23,9 @@ body {
     margin: auto;
 }
 
-h1,h2{
-  color: orange;
+h1{
+  color: #ff8000;
+}
+h2{
+  color: blue;
 }
